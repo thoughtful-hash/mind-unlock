@@ -1,0 +1,26 @@
+{
+  "name": "mind-unlock",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # Mind Unlock ======= # mind-unlock >>>>>>> ad8a160b342788cf84b576414327af12385c2f77",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoughtful-hash/mind-unlock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoughtful-hash/mind-unlock/issues"
+  },
+  "homepage": "https://github.com/thoughtful-hash/mind-unlock#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4",
+    "tailwindcss-cli": "^0.1.2"
+  }
+}
